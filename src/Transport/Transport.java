@@ -106,6 +106,4 @@ public abstract class Transport {
     public String getRefill() {
         return refill;
     }
-
-
 }
